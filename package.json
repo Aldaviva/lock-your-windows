@@ -1,6 +1,6 @@
 {
     "name": "lock-your-windows",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "author": "Ben Hutchison <ben@aldaviva.com>",
     "description": "Activate the Windows lock screen (Win+L), or check if Windows is currently locked.",
     "license": "Apache-2.0",
@@ -24,5 +24,9 @@
         "lock",
         "win32"
     ],
-    "gypfile": true
+    "gypfile": true,
+    "contributors": [
+        "VadimKorobka",
+        "bsnk-dev"
+    ]
 }
